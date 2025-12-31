@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "In The Neighborhood",
+  "base_artist": "ZORN",
+  "createdAt": "2025-12-31T07:32:49.504623Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "So Many People In The Neighborhood",
+      "artist": "Ween",
+      "has_synced": false,
+      "path": "select/01_So_Many_People_In_The_Neighborhood_Ween.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nowhere In the Neighborhood",
+      "artist": "Jace Everett",
+      "has_synced": true,
+      "path": "select/02_Nowhere_In_the_Neighborhood_Jace_Everett.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In the Neighborhood",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/03_In_the_Neighborhood_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In the Neighborhood",
+      "artist": "Mini Max 2 Tom Waits",
+      "has_synced": true,
+      "path": "select/04_In_the_Neighborhood_Mini_Max_2_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Beautiful Night in the Neighborhood",
+      "artist": "Daniel Tiger's Neighborhood",
+      "has_synced": true,
+      "path": "select/05_A_Beautiful_Night_in_the_Neighborhood_Daniel_Tiger's_Neighborhood.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Beautiful Night in the Neighborhood",
+      "artist": "Daniel Tiger",
+      "has_synced": true,
+      "path": "select/06_A_Beautiful_Night_in_the_Neighborhood_Daniel_Tiger.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So Many People In The Neighborhood",
+      "artist": "Ween",
+      "has_synced": true,
+      "path": "select/07_So_Many_People_In_The_Neighborhood_Ween.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's a Beautiful Day in the Neighborhood!",
+      "artist": "Daniel Tiger'S Neighborhood",
+      "has_synced": true,
+      "path": "select/08_It's_a_Beautiful_Day_in_the_Neighborhood!_Daniel_Tiger'S_Neighborhood.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's a Beautiful Day in the Neighborhood",
+      "artist": "Daniel Tiger",
+      "has_synced": true,
+      "path": "select/09_It's_a_Beautiful_Day_in_the_Neighborhood_Daniel_Tiger.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's a Beautiful Day in the Neighborhood!",
+      "artist": "Daniel Tiger",
+      "has_synced": true,
+      "path": "select/10_It's_a_Beautiful_Day_in_the_Neighborhood!_Daniel_Tiger.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's a Beautiful Day in the Neighborhood",
+      "artist": "Daniel Tiger's Neighborhood",
+      "has_synced": true,
+      "path": "select/11_It's_a_Beautiful_Day_in_the_Neighborhood_Daniel_Tiger's_Neighborhood.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In The Neighborhood (2023 Remaster)",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/12_In_The_Neighborhood_(2023_Remaster)_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In the Neighborhood",
+      "artist": "Wendy and DB",
+      "has_synced": false,
+      "path": "select/13_In_the_Neighborhood_Wendy_and_DB.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Peace In The Neighborhood",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/14_Peace_In_The_Neighborhood_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Down in the Neighborhood",
+      "artist": "Marcia Ball",
+      "has_synced": false,
+      "path": "select/15_Down_in_the_Neighborhood_Marcia_Ball.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "in the neighborhood",
+      "artist": "pretty boy blue",
+      "has_synced": true,
+      "path": "select/16_in_the_neighborhood_pretty_boy_blue.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stuck In The Neighborhood",
+      "artist": "Kraig Durco",
+      "has_synced": true,
+      "path": "select/17_Stuck_In_The_Neighborhood_Kraig_Durco.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "In The Neighborhood",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/18_In_The_Neighborhood_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "So Many People In The Neighborhood",
+      "artist": "Ween",
+      "has_synced": true,
+      "path": "select/19_So_Many_People_In_The_Neighborhood_Ween.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "In The Neighborhood",
+      "artist": "ZORN",
+      "has_synced": false,
+      "path": "select/pl_01_In_The_Neighborhood_ZORN.txt"
+    }
+  ]
+}
